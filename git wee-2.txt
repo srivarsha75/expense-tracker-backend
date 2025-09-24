@@ -1,0 +1,31 @@
+
+Lab 2 – Explore Git and GitHub Commands
+
+Date: 23-07-2025
+Assignment Title: Exploring Git and GitHub Basics
+
+1. git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+2. git log
+commit 1a2b3c4d5e6f7g8h9i0j (HEAD -> main, origin/main)
+Author: Author: srivarsha75 <157144153+srivarsha75@users.noreply.github.com>
+Date:  Wed Sep 24 10:44:18 2025 +0530
+
+    Initial commit
+
+3. git branch
+* main
+
+4. git remote -v
+origin  https://github.com/srivarsha75/expense-tracker-backend.git (fetch)
+origin  https://github.com/srivarsha75/expense-tracker-backend.git (push)
+
+5. GitHub Repository Link
+https://github.com/srivarsha75/expense-tracker-backend
+
+
+
